@@ -1,4 +1,6 @@
 aid: micron-technology
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/micron-technology/refs/heads/main/apis.yml
 modified: '2026-04-28'
