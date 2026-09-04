@@ -1,3 +1,4 @@
+name: Micron Technology
 aid: micron-technology
 deliveryModel:
   model: unknown
@@ -22,6 +23,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.micron-technology.com', status: 301, note: 'declared website redirects to https://www.micron.com/ — a different registrable domain (micron-technology.com -> micron.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/micron-technology.png
 tags:
   - Fortune 500
