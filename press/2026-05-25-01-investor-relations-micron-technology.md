@@ -1,7 +1,9 @@
 ---
 title: Investor Relations | Micron Technology
 url: https://investors.micron.com/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Micron Technology" press release artificial intelligence'
 position: 1
 source: serpapi-google

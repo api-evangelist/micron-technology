@@ -1,7 +1,9 @@
 ---
 title: Micron Technology, Inc. (MU)
 url: https://finance.yahoo.com/quote/MU/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Micron Technology" press release artificial intelligence'
 position: 3
 source: serpapi-google
