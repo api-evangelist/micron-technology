@@ -30,9 +30,11 @@ tags:
   - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/micron-technology/refs/heads/main/apis.yml
-modified: '2026-04-28'
+modified: '2026-10-06'
 apis: []
 common:
+  - url: https://www.micron.com/about/blog
+    type: Blog
   - type: DomainSecurity
     url: security/micron-technology-domain-security.yml
   - type: GitHubOrganization
